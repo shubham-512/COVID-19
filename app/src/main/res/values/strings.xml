@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CovidInfo</string>
+    <string name="heading">Covid-19 Info</string>
+    <string name="feature_1">1. Infection protection and control/WASH</string>
+    <string name="feature_2">2. Guidance for schools/workplaces and institutions</string>
+    <string name="feature_3">3. Points of entry/mass gatherings</string>
+    <string name="feature_4">4. Reduction of transmission from animals to humans</string>
+    <string name="feature_5">5. 12 guides to help work from home</string>
+</resources>
